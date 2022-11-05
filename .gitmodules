@@ -8,3 +8,8 @@
 	url = https://github.com/dgkf/ggpackets
 	shallow = true
 	registered = true
+[submodule "parttime"]
+	path = parttime
+	url = https://github.com/dgkf/parttime
+	shallow = true
+	registered = true
