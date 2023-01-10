@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "options",
+    "oncran": true
+  },
+  {
     "package": "parttime",
     "oncran": true
   }
