@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggpackets"]
 	path = ggpackets
 	url = https://github.com/dgkf/ggpackets
-	shallow = true
-	registered = true
 [submodule "options"]
 	path = options
 	url = https://github.com/dgkf/options
-	shallow = true
-	registered = true
 [submodule "parttime"]
 	path = parttime
 	url = https://github.com/dgkf/parttime
-	shallow = true
-	registered = true
