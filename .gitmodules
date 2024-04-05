@@ -11,3 +11,6 @@
 [submodule "parttime"]
 	path = parttime
 	url = https://github.com/dgkf/parttime
+[submodule "testex"]
+	path = testex
+	url = https://github.com/dgkf/testex
