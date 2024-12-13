@@ -7,7 +7,7 @@
 	url = https://github.com/dgkf/ggpackets
 [submodule "options"]
 	path = options
-	url = https://github.com/dgkf/options
+	url = https://codeberg.org/dgkf/options
 [submodule "parttime"]
 	path = parttime
 	url = https://github.com/dgkf/parttime
